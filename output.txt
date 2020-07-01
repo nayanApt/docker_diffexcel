@@ -1,0 +1,138 @@
+Sheet: FoodNutrientData
+
+Row number | Item                                                                    | Column name | File 1 | File 2
+___________|_________________________________________________________________________|_____________|________|_______
+3806       | Gazpacho                                                                | FoodDeleted | 1      |       
+3807       | Gazpacho, canned, undiluted                                             | FoodDeleted | 1      |       
+4527       | Hot Chili pepper, raw                                                   | FoodDeleted | 1      |       
+4528       | Hot Chili pepper, red, no seeds, canned                                 | FoodDeleted | 1      |       
+4529       | Hot Chili pepper, red, raw                                              | FoodDeleted | 1      |       
+4530       | Hot Chili pepper, sun-dried                                             | FoodDeleted | 1      |       
+4559       | Hot Green Chili, pods with o seeds, canned                              | FoodDeleted | 1      |       
+5462       | Lemon juice, canned or bottled                                          | FoodDeleted | 1      |       
+5463       | Lemon juice, canned or bottled                                          | FoodDeleted | 1      |       
+5464       | Lemon Juice, fresh                                                      | FoodDeleted | 1      |       
+5465       | Lemon juice, NS as to form                                              | FoodDeleted | 1      |       
+6141       | Mixed vegetables, canned, drained                                       | FoodDeleted | 1      |       
+6142       | Mixed vegetables, canned, solids & liquid                               | FoodDeleted | 1      |       
+6143       | Mixed vegetables, cooked from canned                                    | FoodDeleted | 1      |       
+6144       | Mixed vegetables, cooked from frozen                                    | FoodDeleted | 1      |       
+6146       | Mixed vegetables, frozen                                                | FoodDeleted | 1      |       
+6147       | Mixed vegetables, frozen, boiled                                        | FoodDeleted | 1      |       
+9730       | Soup, miso broth                                                        | FoodDeleted | 1      |       
+9731       | Soup, miso broth, tofu soup                                             | FoodDeleted | 1      |       
+10654      | Tomato paste                                                            | FoodDeleted | 1      |       
+10655      | Tomato Paste, canned, no salt                                           | FoodDeleted | 1      |       
+10657      | Tomato puree                                                            | FoodDeleted | 1      |       
+10658      | Tomato Puree, canned                                                    | FoodDeleted | 1      |       
+10661      | Tomato sauce                                                            | FoodDeleted | 1      |       
+10662      | Tomato Sauce,  canned with herbs & cheese                               | FoodDeleted | 1      |       
+10663      | Tomato Sauce,  canned with tomato bits                                  | FoodDeleted | 1      |       
+10664      | Tomato Sauce, canned                                                    | FoodDeleted | 1      |       
+10665      | Tomato Sauce, canned with celery, onion & peppers                       | FoodDeleted | 1      |       
+10666      | Tomato Sauce, canned with mushroom                                      | FoodDeleted | 1      |       
+10667      | Tomato Sauce, canned with onion                                         | FoodDeleted | 1      |       
+10668      | Tomato Sauce, canned, Spanish style                                     | FoodDeleted | 1      |       
+10669      | Tomato sauce, low sodium                                                | FoodDeleted | 1      |       
+10670      | Tomato sauce, no salt added                                             | FoodDeleted | 1      |       
+10671      | Tomato, crushed, canned                                                 | FoodDeleted | 1      |       
+10672      | Tomato, green, pickled                                                  | FoodDeleted | 1      |       
+10681      | Tomato, Sun-dried                                                       | FoodDeleted | 1      |       
+10682      | Tomato, Sun-dried, oil packed, drained                                  | FoodDeleted | 1      |       
+10683      | Tomato, Yellow, raw                                                     | FoodDeleted | 1      |       
+10684      | Tomatoes, canned, low sodium                                            | FoodDeleted | 1      |       
+11249      | Vegetable broth, bouillon                                               | FoodDeleted | 1      |       
+11250      | Vegetable broth, bouillon, onion broth                                  | FoodDeleted | 1      |       
+11251      | Vegetable broth, bouillon, pot liquor                                   | FoodDeleted | 1      |       
+11253      | Vegetable chicken or turkey soup, canned, undiluted                     | FoodDeleted | 1      |       
+11254      | Vegetable chicken or turkey soup, prepared with water or ready-to-serve | FoodDeleted | 1      |       
+11259      | Vegetable juice cocktail, canned                                        | FoodDeleted | 1      |       
+11260      | Vegetable Juice, Carrot, canned                                         | FoodDeleted | 1      |       
+11261      | Vegetable Juice, Tomato, canned                                         | FoodDeleted | 1      |       
+11412      | Water chestnut, canned, solids & liquid                                 | FoodDeleted | 1      |       
+11413      | Water chestnut, peeled, raw                                             | FoodDeleted | 1      |       
+11431      | Wax beans, canned, cooked                                               | FoodDeleted | 1      |       
+11432      | Wax beans, cooked                                                       | FoodDeleted | 1      |       
+11433      | Wax beans, frozen, cooked                                               | FoodDeleted | 1      |       
+12098      | ***NEW ROW***                                                           |             |        |       
+12099      | ***NEW ROW***                                                           |             |        |       
+12100      | ***NEW ROW***                                                           |             |        |       
+12101      | ***NEW ROW***                                                           |             |        |       
+12102      | ***NEW ROW***                                                           |             |        |       
+12103      | ***NEW ROW***                                                           |             |        |       
+12104      | ***NEW ROW***                                                           |             |        |       
+12105      | ***NEW ROW***                                                           |             |        |       
+12106      | ***NEW ROW***                                                           |             |        |       
+12107      | ***NEW ROW***                                                           |             |        |       
+12108      | ***NEW ROW***                                                           |             |        |       
+12109      | ***NEW ROW***                                                           |             |        |       
+12110      | ***NEW ROW***                                                           |             |        |       
+12111      | ***NEW ROW***                                                           |             |        |       
+12112      | ***NEW ROW***                                                           |             |        |       
+12113      | ***NEW ROW***                                                           |             |        |       
+12114      | ***NEW ROW***                                                           |             |        |       
+12115      | ***NEW ROW***                                                           |             |        |       
+12116      | ***NEW ROW***                                                           |             |        |       
+12117      | ***NEW ROW***                                                           |             |        |       
+12118      | ***NEW ROW***                                                           |             |        |       
+12119      | ***NEW ROW***                                                           |             |        |       
+12120      | ***NEW ROW***                                                           |             |        |       
+12121      | ***NEW ROW***                                                           |             |        |       
+12122      | ***NEW ROW***                                                           |             |        |       
+12123      | ***NEW ROW***                                                           |             |        |       
+12124      | ***NEW ROW***                                                           |             |        |       
+12125      | ***NEW ROW***                                                           |             |        |       
+12126      | ***NEW ROW***                                                           |             |        |       
+12127      | ***NEW ROW***                                                           |             |        |       
+12128      | ***NEW ROW***                                                           |             |        |       
+12129      | ***NEW ROW***                                                           |             |        |       
+12130      | ***NEW ROW***                                                           |             |        |       
+12131      | ***NEW ROW***                                                           |             |        |       
+12132      | ***NEW ROW***                                                           |             |        |       
+12133      | ***NEW ROW***                                                           |             |        |       
+12134      | ***NEW ROW***                                                           |             |        |       
+12135      | ***NEW ROW***                                                           |             |        |       
+============================================================
+Sheet: F-Factor Foods
+
+Row number | Item                                                            | Column name | File 1 | File 2
+___________|_________________________________________________________________|_____________|________|_______
+30         | Sukrin Syrup Gold                                               | FoodDeleted | 1      |       
+31         | Sukrin Syrup Clear                                              | FoodDeleted | 1      |       
+93         | Bai, all flavors                                                | FoodDeleted | 1      |       
+271        | Smart Sweets Gummy Bears, Seriously Sour                        | FoodDeleted | 1      |       
+272        | Smart Sweets Gummy Bears, Fruity                                | FoodDeleted | 1      |       
+684        | No Cow Bar, Chunky Peanut Butter                                | FoodDeleted | 1      |       
+685        | No Cow Bar, Lemon Meringue Pie                                  | FoodDeleted | 1      |       
+686        | No Cow Bar, Bluebery Cobbler                                    | FoodDeleted | 1      |       
+687        | No Cow Bar, Raspberry Truffle                                   | FoodDeleted | 1      |       
+688        | No Cow Bar, Chocolate Fudge Brownie                             | FoodDeleted | 1      |       
+689        | No Cow Bar, Mint Cacao Chip                                     | FoodDeleted | 1      |       
+690        | No Cow Bar, Peanut Butter Chocolate Chip                        | FoodDeleted | 1      |       
+691        | No Cow Bar, Chocolate Coconut                                   | FoodDeleted | 1      |       
+692        | No Cow Bar, Vanilla Caramel                                     | FoodDeleted | 1      |       
+693        | No Cow Bar, Carrot Cake                                         | FoodDeleted | 1      |       
+743        | Kirkland Signature Protein Bars, Chocolate Brownie              | FoodDeleted | 1      |       
+744        | Kirkland Signature Protein Bars,Chocolate Chip Cookie Dough     | FoodDeleted | 1      |       
+745        | Kirkland Signature Protein Bars, Cookies and Cream              | FoodDeleted | 1      |       
+746        | Kirkland Signature Protein Bars, Chocolate Peanut Butter Chunk  | FoodDeleted | 1      |       
+747        | Chocorite Dark Chocolate Crunch                                 | FoodDeleted | 1      |       
+748        | Chocorite Vanilla Peanut Cluster                                | FoodDeleted | 1      |       
+749        | Chocorite Chocolate Crispy Caramel                              | FoodDeleted | 1      |       
+750        | Chocorite Dark Chocolate Pecan Cluster                          | FoodDeleted | 1      |       
+751        | Chocorite Peanut Butter Cup Patties                             | FoodDeleted | 1      |       
+752        | Chocorite Chocolate Covered Caramels                            | FoodDeleted | 1      |       
+979        | ***NEW ROW***                                                   |             |        |       
+980        | ***NEW ROW***                                                   |             |        |       
+981        | ***NEW ROW***                                                   |             |        |       
+982        | ***NEW ROW***                                                   |             |        |       
+983        | ***NEW ROW***                                                   |             |        |       
+984        | ***NEW ROW***                                                   |             |        |       
+985        | ***NEW ROW***                                                   |             |        |       
+986        | ***NEW ROW***                                                   |             |        |       
+987        | ***NEW ROW***                                                   |             |        |       
+988        | ***NEW ROW***                                                   |             |        |       
+989        | ***NEW ROW***                                                   |             |        |       
+990        | ***NEW ROW***                                                   |             |        |       
+991        | ***NEW ROW***                                                   |             |        |       
+============================================================
